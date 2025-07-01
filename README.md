@@ -18,7 +18,7 @@ A certification request management system backend API built with Express.js and 
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 
 2. Install dependencies:
 ```bash
